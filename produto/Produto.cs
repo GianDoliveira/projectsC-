@@ -18,6 +18,15 @@ namespace produto
             return Preco * Quantidade;
         }
 
+        public double AdicionarProdutos(int quantidade)
+        {
+            return Quantidade += quantidade;
+        }
+        public double RemoverProdutos(int quantidade)
+        {
+            return Quantidade -= quantidade;
+        }
+
         public override string ToString()
         {
             return Nome

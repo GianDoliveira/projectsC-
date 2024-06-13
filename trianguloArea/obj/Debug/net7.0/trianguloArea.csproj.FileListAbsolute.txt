@@ -1,0 +1,14 @@
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\bin\Debug\net7.0\trianguloArea.exe
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\bin\Debug\net7.0\trianguloArea.deps.json
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\bin\Debug\net7.0\trianguloArea.runtimeconfig.json
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\bin\Debug\net7.0\trianguloArea.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\bin\Debug\net7.0\trianguloArea.pdb
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.AssemblyInfoInputs.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.AssemblyInfo.cs
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.csproj.CoreCompileInputs.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\refint\trianguloArea.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.pdb
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\trianguloArea.genruntimeconfig.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\trianguloArea\obj\Debug\net7.0\ref\trianguloArea.dll

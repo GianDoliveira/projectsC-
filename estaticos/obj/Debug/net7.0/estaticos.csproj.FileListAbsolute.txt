@@ -1,0 +1,14 @@
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.AssemblyInfoInputs.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.AssemblyInfo.cs
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.csproj.CoreCompileInputs.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\bin\Debug\net7.0\estaticos.exe
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\bin\Debug\net7.0\estaticos.deps.json
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\bin\Debug\net7.0\estaticos.runtimeconfig.json
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\bin\Debug\net7.0\estaticos.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\bin\Debug\net7.0\estaticos.pdb
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\refint\estaticos.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.pdb
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\estaticos.genruntimeconfig.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\estaticos\obj\Debug\net7.0\ref\estaticos.dll

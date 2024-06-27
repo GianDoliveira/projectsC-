@@ -1,0 +1,14 @@
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\bin\Debug\net7.0\cadastro.exe
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\bin\Debug\net7.0\cadastro.deps.json
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\bin\Debug\net7.0\cadastro.runtimeconfig.json
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\bin\Debug\net7.0\cadastro.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\bin\Debug\net7.0\cadastro.pdb
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.AssemblyInfoInputs.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.AssemblyInfo.cs
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\refint\cadastro.dll
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.pdb
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\cadastro.genruntimeconfig.cache
+C:\Users\naigd\OneDrive\Documentos\programação\csharp\cadastro\obj\Debug\net7.0\ref\cadastro.dll

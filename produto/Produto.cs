@@ -9,9 +9,34 @@ namespace produto
     public class Produto
     {
 #pragma warning disable CS8618
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
+
+        public Produto(string nome, double preco, int quantidade)
+        {
+            _nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
+        public Produto(string nome, double preco)
+        {
+            _nome = nome;
+            Preco = preco;
+        }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
+        }
 
         public double ValorTotalEmEstoque()
         {
@@ -22,6 +47,7 @@ namespace produto
         {
             return Quantidade += quantidade;
         }
+
         public double RemoverProdutos(int quantidade)
         {
             return Quantidade -= quantidade;
@@ -29,13 +55,13 @@ namespace produto
 
         public override string ToString()
         {
-            return Nome
-            + ", $"
-            + Preco.ToString("F2", CultureInfo.InvariantCulture)
-            + ", "
-            + Quantidade
-            + " unidades, Total: $"
-            + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            return _nome
+                + ", $"
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Quantidade
+                + " unidades, Total: $"
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
 
 #pragma warning restore CS8618
